@@ -68,7 +68,7 @@ Skills such as Gitlab, Bitbucket, and Jupyter suggest that data analysts are exp
 This implies that data analysts are taking on responsibilities traditionally associated with data engineering or even DevOps, expanding their roles beyond pure analysis.
 
 ![Top Paying Jobs](assets\top_10_paying_jobs_visual.png)
-*Bar graph representing the top 10 paying jobs by their salary. Chatgpt helped me in creating the visuals.*
+*Bar graph representing the top 10 paying jobs by their salary. Chatgpt helped me in creating the visuals*
 
 ### 2. Top Skillsets often required by employers
 Different jobs have their different requirements; that is the skills necessary for the role. From this data, I have been able to identify the skills that employers look out for the most.
