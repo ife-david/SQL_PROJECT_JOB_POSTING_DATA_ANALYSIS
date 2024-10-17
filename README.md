@@ -167,7 +167,7 @@ LIMIT 25
 
 - These skills primarily relate to data processing, AI platforms, and cloud-based tools, which are in high demand in today's tech industry.
 
-![Top Paying Skills](assets\top_paying_skills_visual.png)
+![Top Paying Skills](https://github.com/ife-david/SQL_PROJECT_JOB_POSTING_DATA_ANALYSIS/blob/main/assets/top_paying_skills_visual.png)
 
 
 # What I learned
