@@ -107,7 +107,7 @@ ORDER BY
 ```
 
 
-![Top 10 skills rated by employers](assets\top_10_skills_count.png)
+![Top 10 skills rated by employers](https://github.com/ife-david/SQL_PROJECT_JOB_POSTING_DATA_ANALYSIS/blob/main/assets/top_10_skills_count.png)
 
 ### 3. Top skills needed for a data analyst job role.
 People are often confused on what skills to learn when looking on take job roles as a data analyst. According to this 2023 data, we will will have an idea of which skills are most important for data analyst roles for employers
