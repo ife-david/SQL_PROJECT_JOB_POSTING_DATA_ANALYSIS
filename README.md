@@ -67,7 +67,7 @@ Data engineering skills are increasingly valuable, with tools like Airflow, Jenk
 Skills such as Gitlab, Bitbucket, and Jupyter suggest that data analysts are expected to collaborate with software development teams and engage in cross-functional projects.
 This implies that data analysts are taking on responsibilities traditionally associated with data engineering or even DevOps, expanding their roles beyond pure analysis.
 
-![Top Paying Jobs](assets\paying_jobs.png)
+![Top Paying Jobs](https://github.com/ife-david/SQL_PROJECT_JOB_POSTING_DATA_ANALYSIS/blob/main/assets/paying_jobs.png)
 
 
 *Bar graph representing the top 10 paying jobs by their salary. Chatgpt helped me in creating the visuals*
