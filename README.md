@@ -137,7 +137,7 @@ Here's a brief analysis:
 
 - Tableau and Power BI, two popular data visualization tools, are also highly sought after, reflecting the industry's emphasis on visual analytics.
 
-![Top Data Analyst skills](assets\top_data_analyst_skills_demand.png)
+![Top Data Analyst skills](https://github.com/ife-david/SQL_PROJECT_JOB_POSTING_DATA_ANALYSIS/blob/main/assets/top_data_analyst_skills_demand.png)
 
 ### 4. Top Paying Skillset
 Which skillset pays the most ? Let's find out.
