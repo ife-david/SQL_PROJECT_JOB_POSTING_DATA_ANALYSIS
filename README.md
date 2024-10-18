@@ -70,7 +70,7 @@ This implies that data analysts are taking on responsibilities traditionally ass
 ![Top Paying Jobs](https://github.com/ife-david/SQL_PROJECT_JOB_POSTING_DATA_ANALYSIS/blob/main/assets/paying_jobs.png)
 
 
-*Bar graph representing the top 10 paying jobs by their salary. Chatgpt helped me in creating the visuals*
+*Bar graph representing the top 10 paying jobs by their salary.*
 
 ### 2. Top Skillsets often required by employers
 Different jobs have their different requirements; that is the skills necessary for the role. From this data, I have been able to identify the skills that employers look out for the most.
